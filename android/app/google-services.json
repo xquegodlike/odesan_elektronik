@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471661452126",
+    "project_id": "odesan-elektronik",
+    "storage_bucket": "odesan-elektronik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471661452126:android:72473e46d2e76614880dcf",
+        "android_client_info": {
+          "package_name": "com.odesan_elektronik.odesan_elektronik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471661452126-jgbtiesfcsosnju6tumr7cl86ondumas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odesan_elektronik.odesan_elektronik",
+            "certificate_hash": "a2ec8f8fe34c57e0d88204daa8d04aeb9c7976c2"
+          }
+        },
+        {
+          "client_id": "471661452126-29563od8bkkmm6j954fn085nlb2m83r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MFtNuqjYfmISAvcD77zSk0-BPfbAJSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471661452126-29563od8bkkmm6j954fn085nlb2m83r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
